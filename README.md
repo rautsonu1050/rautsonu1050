@@ -169,7 +169,7 @@ A personal portfolio showcasing my skills, projects, and development journey.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sonu-kumar-raut-364753384/">
+<a href="https://www.linkedin.com/in/sonuraut1619/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
