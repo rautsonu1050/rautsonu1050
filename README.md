@@ -87,29 +87,6 @@ I'm a Computer Science and Engineering student and self-learner from Nepal, pass
 
 <!-- ================= PROJECTS ================= -->
 
-## 🚀 Featured Projects
-
-Here are some of my repositories and development projects.
-
-### 🐍 Python Projects
-Practice programs, Python exercises, automation scripts, and programming experiments.
-
-[![Python Projects](https://img.shields.io/badge/View_Repository-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rautsonu1050/python_projects)
-
-### 📊 Data Science Projects
-Data exploration, analysis, and experimentation with data science concepts.
-
-[![Data Science](https://img.shields.io/badge/View_Repository-0A9396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rautsonu1050/Data-Science-project-)
-
-### 🤖 EduGuardian AI
-An AI-powered academic assistance project focused on helping students and faculty monitor academic progress.
-
-**Status:** In Development
-
-### 🌐 Personal Portfolio
-A personal portfolio showcasing my skills, projects, and development journey.
-
-**Status:** In Development
 
 ---
 
