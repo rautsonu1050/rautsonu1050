@@ -19,10 +19,10 @@ Computer Science and Engineering student and self-learner from Nepal building ha
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Projects+and+Learning+Every+Day;Full+Stack+Development+Enthusiast;Exploring+AI%2C+ML+%26+Data+Science;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=rautsonu1050&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rautsonu1050?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-</p>
+</p> -->
 
 </div>
 
