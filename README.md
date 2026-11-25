@@ -30,3 +30,18 @@ I'm a student and self-learner from Nepal exploring software development and dat
 
 ### 📫 Connect with Me
 - GitHub: [@rautsonu1050](https://github.com/rautsonu1050)
+
+
+![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rautsonu1050&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rautsonu1050&layout=compact&theme=tokyonight)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rautsonu1050&theme=tokyonight)](https://git.io/streak-stats)
+
+
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
