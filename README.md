@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Sonu Kumar Raut Banner" width="700" />
-</p>
-
 # Hi there, I'm Sonu Kumar Raut 👋
 
-I'm a Computer Science and Engineering student and self-learner from Nepal exploring software development, data, and hands-on engineering projects.
+Computer Science and Engineering student and self-learner from Nepal building hands-on projects in software development, data, and engineering tools.
 
 ### 🛠️ Languages & Tools
 <p align="left">
@@ -20,7 +16,7 @@ I'm a Computer Science and Engineering student and self-learner from Nepal explo
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rautsonu1050&show_icons=true&theme=tokyonight" width="48%" alt="Sonu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rautsonu1050&show_icons=true&theme=tokyonight" width="48%" alt="Sonu Kumar Raut's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rautsonu1050&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
