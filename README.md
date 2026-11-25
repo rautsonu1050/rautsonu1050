@@ -45,3 +45,25 @@ I'm a student and self-learner from Nepal exploring software development and dat
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rautsonu1050&show_icons=true&theme=tokyonight" width="48%" alt="Sonu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rautsonu1050&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
+
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=rautsonu1050&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rautsonu1050&layout=compact&theme=tokyonight) |
+
+
+![Sonu's Banner](assets/banner.png)
+
+<p align="center">
+  <img src="assets/banner.png" alt="Sonu's Banner" width="600" />
+</p>
+
+
+
+
